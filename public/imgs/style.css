@@ -1,0 +1,13 @@
+img{
+    height: 80vh;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+h1{
+    font-size: 3rem !important;
+    padding-top: 1vh;
+    padding-bottom: 5vh;
+}
+*{
+    background-color: lightblue;
+}
